@@ -13,3 +13,7 @@
 1. Mean absolute error
 2. Mean squared error
 3. Root mean squared error
+
+## Step 4: Regularization
+1. L1 (lasso regression)
+2. L2 (ridge regression)
